@@ -5,7 +5,7 @@ el calculo se realiza de la siguiente manera: «pesoMolecuar = peso1 * atomo1 + 
 
 '''
 Autor: Jesus Cies Fernandez | jesusciefer1997@gmail.com
-Fecha 29/09/20
+Fecha 29/09/23
 Objetivo calcular peso molecular
 '''
 print('Por favor, utiliza en las siguientes entradas el sistema internacional de medidas')
