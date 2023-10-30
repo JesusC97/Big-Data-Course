@@ -6,7 +6,7 @@ Paso 2: Intenta hacer que pida todos los datos al usuario.'''
 '''
 
 Autor: Jesus Cies Fernandez | jesusciefer1997@gmail.com
-Fecha 29/09/20
+Fecha 29/09/23
 Objetivo calcular capital final
 '''
 
