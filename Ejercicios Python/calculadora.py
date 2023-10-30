@@ -1,7 +1,7 @@
 
 '''
 Autor: Jesus Cies Fernandez | jesusciefer1997@gmail.com
-Fecha 29/09/20
+Fecha 29/09/23
 Objetivo: Hacer una calculadora
 '''
 # Le pido al usuario que me de los valores de entrada
