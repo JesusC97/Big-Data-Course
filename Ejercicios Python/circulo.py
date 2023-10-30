@@ -4,7 +4,7 @@ muestre por pantalla el resultado. Si puedes con eso, hazlo para que también ca
 
 '''
 Autor: Jesus Cies Fernandez | jesusciefer1997@gmail.com
-Fecha 29/09/20
+Fecha 29/09/23
 Objetivo calcular circunferencia y diametro
 '''
 
