@@ -7,7 +7,7 @@ valor de la resistencia de 4 ohmios el valor del voltaje es de 12 voltios.
 
 '''
 Autor: Jesus Cies Fernandez | jesusciefer1997@gmail.com
-Fecha 29/09/20
+Fecha 29/09/23
 Objetivo calcular voltaje
 '''
 
